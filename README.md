@@ -1,4 +1,4 @@
-# Data Science for High Tech and Telcom
+# Data Science for HighTech and Telcom
 (Regularly updated)
 
 This repo contains data science applications for High Tech and Telcom Industry, such as: 
