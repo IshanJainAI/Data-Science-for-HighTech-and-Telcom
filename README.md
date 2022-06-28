@@ -1,7 +1,7 @@
-# ML-AI-for-Telecom
+# Data Science for High Tech and Telcom
 (Regularly updated)
 
-This repo will contain or contains ML and AI usecases for Telecommunication Industry, such as: 
+This repo contains data science applications for High Tech and Telcom Industry, such as: 
 1. Revenue management
 2. Customer Churn
 3. Cross-sell
